@@ -1,0 +1,15 @@
+dev_1
+making a original code
+
+# initializing string
+test_string = "GFG"
+
+# initializing add_string
+add_string = " is best"
+
+#adding test_string to add_string
+print(test_string+add_string)
+res = test_string+add_string
+
+#adding character to a string
+print(res+"!")
