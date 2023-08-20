@@ -1,8 +1,8 @@
-dev_1
-making a original code
+dev_2
+chaging the original code
 
 # initializing string
-test_string = "GFG"
+test_string = "RANJITH"
 
 # initializing add_string
 add_string = " is best"
