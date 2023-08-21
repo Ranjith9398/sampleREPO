@@ -12,4 +12,4 @@ qx = (2,-5,2)
 rx = numpy.polynomial.polynomial.polyadd(px,qx)
 
 # print the resultant polynomial
-print(rx)
+print(ranjith)
