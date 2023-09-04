@@ -1,5 +1,5 @@
 steps:
-- name: 'us-central1-docker.pkg.dev/noble-vine-394913/gcf-artifacts'
+- name: 'us-central1-docker.pkg.dev/noble-vine-394913/gcf-artifacts/appengine:v1.0'
   entrypoint: 'bash'
   args: ['-c', 'gcloud config set app/cloud_build_timeout 1600 && gcloud app deploy']
 options:
