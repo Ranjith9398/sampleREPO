@@ -1,0 +1,5 @@
+Name, subject, marks
+Naha, maths, 36
+Ranjith Sammeta(RS), science, 99
+(SK), Drawing, 24
+Navi, Gk, 0

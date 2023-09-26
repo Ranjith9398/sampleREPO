@@ -1,0 +1,10 @@
+dev_1
+
+# example string
+string = "THIS IS RANJITH CODE!"
+print(string.lower())
+
+# string with numbers
+# all alphabets should be lowercase
+string = "Th!s Sh0uLd B3 L0w3rCas3!"
+print(string.lower())

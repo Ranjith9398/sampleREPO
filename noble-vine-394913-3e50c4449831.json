@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "noble-vine-394913",
+  "private_key_id": "3e50c444983151d4114285b0b74c7d319761db8d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQD23tT7vFGqSse/\nLs1PF8o9GYBRXlnaBU+Yh4zJagwtcjfsurLxwPcO/kUlC7okjEFM8DOw7yXwB6a2\n2rFdDF8bOclxaj9R9M2oo+oSs9amhcU+k8iT6/U+cAgo5zbAPqsK4uy2QzuEdrHe\n2ybOgDQ2aM51cScoo/gjdfgGQeHjzyuq18v8d6VDAWy1B0H1DK9Z/jKbF9Td+GYC\naXPyVbl87napdZO0GAKQPp/hX4yHJs0hVkAIAYfBgmlzAMsjSvgPmPuwI0/4GzDj\nd7Z5sEoEtaECsRVXkL3SgMV6pdkvqOuQHZpuTkmu0nCUpDOGfAdRrphlIGB+w09J\ndleADyRzAgMBAAECggEAIqalW3jpN49hLnG/H0ZrZxxrY+sWjou8n+AK1Vc9bVWW\nXvPXsSeQ0KRvsnhNFjCE6+vdPY0GagS7lE0++ZyxGW0I3D1PCk25CN41Do9P5jYU\nOP6HoqeggoqOwqWtjC9fqlqut2iEHp7bGY5GNKmkaoIB1KnfbAy+hBpcsrgloOge\nmirLtAbCv2PnSe96IF7ybTgJ8NuEFUgpSfEPq7sI93Je/gVrKJcK7XBZvO6Ctvrf\ntCilHu8HwhUhKXyqWUmGavhf6dElNKIBWKkwGcSPJNlqNZP52mhG8xnuV1lJKZFJ\nxBD7COnMYM0rUZYNccHUHIjam46OM6hkzTamFA1XGQKBgQD7nEarLkf10LmyxSE9\nujvGtHMkvQapLqjiVZHPCWJ2utCiTFgYOPmAcBk9Mq49jN11hTdAO4+K8EESpzQk\noHPcCb17Ig5Bkru6c9PlOl5LznwfgGYrdpUZUA+rzYzUmxQ/dVsoKvU/vNLwmIXm\nUCT5vFIsP8YwmZsPTWfkPFTPOwKBgQD7LWLrsWI0/xzFXZrPVaMaK2LTn3mOee5l\ndDfIeQS35yTJ5L2atJ08D3WGdEMV0g+axWWI7UZ+arJq+oVXc/8mjBg/iPlQafyb\nl+Ft89eH/7DcYKMHWVjaRT0PffSZD2O74PIpe3iLC0s5wkvw+x7MlPe9fo47BWP6\nYma3uXacKQKBgE0tBCghjAUEPtFs0eNjKk6qrt7H9DEUlMzHvm+oy0Dr0G7Xx/W2\nFCGnQLaawwMyIAOaFvZmzoKpauxTyRSq+p61hh8stP68CUUJnicjniTWcxAejDgs\nqVMYUZY6+EWGQ9GrJ4jMlGk2e+U8g2W/k3feob3c2eeyVfN9pK5HKyRdAoGAEZ5U\nYv31Soxeg0WWl1aFc095xihYiXLqEvm88/XxK8kt3m+KETD8GntnHgBHuF8csxmH\njrw+Bp4LV8+szL6ZNiX7iXFdM5PLoUpdCK5i/uojiMHKjbhpsB3NM6n9H0NiFoqn\n0dsUUISBSVLkqsmilm0Yl5Up+t/c7HI8jESZGkkCgYEAlRahbyVz5yisnmExgRA2\ndOm53248ISCSns0xmkLpXcKTI+YarA26nDTprzUXpPtsQIK9sTi/hTXcFZm+y1eV\nQNDaw392RUccNAcQaesqtjAO6YP8WZYhrQyo21OGM5zUyvzLtNAgoPli3jOzKlvb\n7yxbQNUZUzXuljfAEYomORw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "terraform-user-1@noble-vine-394913.iam.gserviceaccount.com",
+  "client_id": "112018608584508033067",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform-user-1%40noble-vine-394913.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
