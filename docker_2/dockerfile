@@ -1,0 +1,6 @@
+FROM openjdk:11
+WORKDIR /myapp
+COPY . .
+RUN javac HelloWorld.java
+EXPOSE 8080
+CMD ["java","-jar","HelloWorld"]
